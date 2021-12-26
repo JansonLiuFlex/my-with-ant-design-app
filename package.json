@@ -8,22 +8,25 @@
   "dependencies": {
     "@ant-design/icons": "4.2.1",
     "@next/bundle-analyzer": "^9.1.4",
+    "ahooks": "^3.1.1",
     "antd": "4.3.0",
     "cross-env": "^7.0.2",
     "dayjs": "1.8.28",
     "esm": "^3.2.25",
+    "nano-memoize": "^1.2.1",
     "next": "latest",
     "postcss-preset-env": "^6.7.0",
+    "rc-picker": "^2.5.19",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "swr": "^1.1.2-beta.0"
+    "react-router-dom": "^6.2.1"
   },
   "browser": {
     "fs": false,
     "path": false
   },
   "devDependencies": {
-    "@types/react": "^17.0.37",
+    "@types/react": "^17.0.38",
     "typescript": "^4.5.4"
   }
 }
