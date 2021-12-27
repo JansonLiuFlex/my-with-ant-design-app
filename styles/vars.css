@@ -2,15 +2,4 @@
   --backgroundColor: #f7f7f7;
   --primaryColor: #191a1b;
   --textColorSecondary: rgba(0, 0, 0, 0.45);
-  height: 100%;
-}
-
-.logo{
-  background-image: url("../public/logo.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  float: left;
-  width: 120px;
-  height: 80px;
-  margin: -10px 24px 16px 0;
 }
